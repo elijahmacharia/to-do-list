@@ -13,7 +13,7 @@ This is a To-do-list web application that allows users to add, delete, and numbe
 
 1. Enter a task name in the input field.
 2. Press the Enter key or click the "Add" button to add the task to the list.
-3. To delete a task, click simple task managerthe "Delete" button next to the task name.
+3. To delete a task, click the "Delete" button next to the task name.
 
 ## Project Structure
 
