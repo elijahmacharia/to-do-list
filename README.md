@@ -1,4 +1,4 @@
-# Simple Task Manager
+# To-do-list
 
 This is a To-do-list web application that allows users to add, delete, and number tasks. It is designed using HTML, CSS, and JavaScript. You can view the live demo of the project by visiting this link: https://superlative-kashata-ac54cc.netlify.app/
 
