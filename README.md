@@ -25,7 +25,8 @@ This is a To-do-list web application that allows users to add, delete, and numbe
 
 Here is a preview of the To-do-list:
 
-![To do List Preview](./preview.png)
+![To do List Preview](./preview.png)(https://superlative-kashata-ac54cc.netlify.app/)
+
 
 ## License
 
