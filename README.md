@@ -32,4 +32,4 @@ Here is a preview of the To-do-list:
 
 This project is open-source and available for anyone to use and modify. Enjoy!
 
-# By.....
+# By..
