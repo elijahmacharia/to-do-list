@@ -27,9 +27,14 @@ Here is a preview of the To-do-list:
 
 [![To do List Preview](./preview.png)](https://superlative-kashata-ac54cc.netlify.app/)
 
+## Authors
+
+This To-do-list web application was created and developed by Elijah Ndaruga and Israel Adenuga. 
+
+Elijah Ndaruga: [elijahndaruga@gmail.com](mailto:elijahndaruga@gmail.com)
+Israel Adenuga: [Eazi0606@gmail.com](mailto:Eazi0606@gmail.com)
+
 
 ## License
 
 This project is open-source and available for anyone to use and modify. Enjoy!
-
-# By..
